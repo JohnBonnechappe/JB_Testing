@@ -9,6 +9,8 @@
 
        procedure division.
            DISPLAY "JBtest02 Version 1.0"
-           goback.
+           DISPLAY "And this came from Branch02"
+           goback
+              .
 
        end program JBTE0002.
