@@ -9,6 +9,7 @@
 
        procedure division.
            DISPLAY "JBTE0001 Version 1.0"
+           DISPLAY "Remote:This is on the main branch"
            goback
            .
 
