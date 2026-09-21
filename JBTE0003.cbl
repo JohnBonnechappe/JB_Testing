@@ -6,9 +6,16 @@
 
        data division.
        working-storage section.
+       01 WS-PARAM-1 PIC X(10).
+       01 WS-PARAM-2 PIC X(10).
 
        procedure division.
            DISPLAY "JBtest03 Version 1.0"
-           goback.
+           DISPLAY "Modified in Local"
+           DISPLAY "ENter a code"
+           ACCEPT WS-PARAM-1
+           DISPLAY "Code Entered=" WS-PARAM-1
+           goback
+           .
 
        end program JBTE0003.

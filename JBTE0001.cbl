@@ -6,9 +6,9 @@
 
        data division.
        working-storage section.
-           01  ws-p1       PIC X(2).
+       01  ws-p1       PIC X(2).
        local-storage section.
-           01 ls-p1        PIC X(2).
+       01 ls-p1        PIC X(2).
 
        procedure division.
            DISPLAY "JBTE0001 Version 1.0"
