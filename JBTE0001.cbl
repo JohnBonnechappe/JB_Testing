@@ -11,6 +11,7 @@
 
        procedure division.
            DISPLAY "JBTE0001 Version 1.0"
+           DISPLAY "This is on the WIP2 branch"
            DISPLAY "Enter a code:"
            Accept WS-PARAM-1
            STRING WS-PARAM-1,"JB"
