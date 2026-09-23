@@ -8,8 +8,8 @@
        working-storage section.
 
        procedure division.
-           DISPLAY "JBtest04 Version 1.0"
-           DISPLAY "Remote WIP2 copy"
+           DISPLAY "JBtest04 Version 1.0 23-sep-26"
+           DISPLAY "Remote WIP copy"
            goback.
 
        end program JBTE0004.
