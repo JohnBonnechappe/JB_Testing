@@ -11,7 +11,7 @@
 
        procedure division.
            DISPLAY "JBtest03 Version 1.0"
-           DISPLAY "Modified in Local"
+           DISPLAY "Modified in Local main branch 23-sep"
            DISPLAY "ENter a code"
            ACCEPT WS-PARAM-1
            DISPLAY "Code Entered=" WS-PARAM-1
