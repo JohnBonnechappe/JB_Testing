@@ -1,0 +1,31 @@
+{
+  "version": "4.0",
+  "cobol": {
+    "directives": {
+      "**/*": [
+        "nognt",
+        "int()",
+        "anim",
+        "max-error\"100\""
+      ],
+      "JBTE0003.cbl": [
+        "nologo",
+        "int\"C:obj\\x64\\Debug\\JBTE0003.int\"",
+        "visualstudio\"4\"",
+        "dialect\"ENTCOBOL\"",
+        "P64",
+        "anim",
+        "cobidy\"obj\\x64\\Debug\\\"",
+        "sourcetabstop\"4\"",
+        "nocoboldir",
+        "noquery",
+        "warnings\"1\"",
+        "max-error\"100\"",
+        "RDFPATH\"obj\\x64\\Debug\\\"",
+        "charset\"EBCDIC\"",
+        "obj\"C:obj\\x64\\Debug\\\"",
+        "delint"
+      ]
+    }
+  }
+}
