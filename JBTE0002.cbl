@@ -9,6 +9,7 @@
 
        procedure division.
            DISPLAY "JBtest02 Version 1.0"
+            DISPLAY "In WIP branch 2aaaaaa"
            goback.
 
        end program JBTE0002.
