@@ -9,7 +9,7 @@
 
        procedure division.
            DISPLAY "JBtest02 Version 1.0"
-           DISPLAY "remote wip2 mod"
+           DISPLAY "remote wip2 mod aaaaa"
            goback.
 
        end program JBTE0002.
