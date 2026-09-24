@@ -9,6 +9,7 @@
 
        procedure division.
            DISPLAY "JBtest02 Version 1.0"
+            DISPLAY "remoe wip2 mod"
            goback.
 
        end program JBTE0002.
