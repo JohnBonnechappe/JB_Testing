@@ -12,7 +12,7 @@
 
        procedure division.
            DISPLAY "JBTE0001 Version 1.0"
-           DISPLAY "Remote:This is on the main branch V2.1a"
+           DISPLAY "Remote:This is on the main branch V2.1aaaaa"
            DISPLAY "Enter a parameter (2 ch)"
            ACCEPT ws-p1
            DISPLAY "Parameter enteredx=" ws-p1
