@@ -8,7 +8,7 @@
        working-storage section.
 
        procedure division.
-           DISPLAY "JBtest03 Version 1.0"
+           DISPLAY "JBtest03 Version 1.0 changed in local WIP2"
            goback.
 
        end program JBTE0003.
